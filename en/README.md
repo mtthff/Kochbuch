@@ -1,5 +1,5 @@
-# cookbook
+# Kochbuch
 
-Cooking Nerds have to write there cookbook via git and publish it on github.
+A Cookbook from Nerds not only for nerds. Done with git and gitbook.
 
-Lets go!
+Let's go!
